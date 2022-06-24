@@ -1,22 +1,22 @@
 Sequence(s):
-Length: 5594605
-Count: 3
+Length: 5501884
+Count: 2
 GC: 50.5
 N50: 5498578
 N ratio: 0.0
-coding density: 88.0
+coding density: 0.0
 
 Annotation:
-tRNAs: 107
-tmRNAs: 1
-rRNAs: 7
-ncRNAs: 57
-ncRNA regions: 1
-CRISPR arrays: 1
-CDSs: 5375
-hypotheticals: 5372
+tRNAs: 0
+tmRNAs: 0
+rRNAs: 0
+ncRNAs: 0
+ncRNA regions: 0
+CRISPR arrays: 0
+CDSs: 0
+hypotheticals: 0
 signal peptides: 0
-sORFs: 2
+sORFs: 0
 gaps: 0
 oriCs: 0
 oriVs: 0
